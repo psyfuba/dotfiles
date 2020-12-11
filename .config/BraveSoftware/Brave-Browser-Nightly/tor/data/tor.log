@@ -1,0 +1,19 @@
+Nov 16 15:38:19.000 [notice] Tor 0.3.5.11 opening new log file.
+Nov 16 15:38:19.421 [notice] Tor 0.3.5.11 running on Linux with Libevent 2.1.9-beta, OpenSSL 1.0.2q, Zlib 1.2.11, Liblzma N/A, and Libzstd N/A.
+Nov 16 15:38:19.421 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://www.torproject.org/download/download#warning
+Nov 16 15:38:19.421 [notice] Configuration file "/nonexistent" not present, using reasonable defaults.
+Nov 16 15:38:19.428 [notice] Opening Socks listener on 127.0.0.1:0
+Nov 16 15:38:19.428 [notice] Socks listener listening on port 41413.
+Nov 16 15:38:19.428 [notice] Opened Socks listener on 127.0.0.1:41413
+Nov 16 15:38:19.428 [notice] Opening Control listener on 127.0.0.1:0
+Nov 16 15:38:19.428 [notice] Control listener listening on port 46587.
+Nov 16 15:38:19.428 [notice] Opened Control listener on 127.0.0.1:46587
+Nov 16 15:38:19.000 [notice] Bootstrapped 0%: Starting
+Nov 16 15:38:20.000 [warn] Our clock is 2 hours, 21 minutes behind the time published in the consensus network status document (2020-11-16 21:00:00 UTC).  Tor needs an accurate clock to work correctly. Please check your time and date settings!
+Nov 16 15:38:20.000 [warn] Received microdesc flavor consensus with skewed time (CONSENSUS): It seems that our clock is behind by 2 hours, 21 minutes, or that theirs is ahead. Tor requires an accurate clock to work: please check your time, timezone, and date settings.
+Nov 16 15:38:20.000 [warn] Problem bootstrapping. Stuck at 0%: Starting. (Clock skew -8501 in microdesc flavor consensus from CONSENSUS; CLOCK_SKEW; count 1; recommendation warn; host ? at ?)
+Nov 16 15:38:20.000 [notice] Starting with guard context "default"
+Nov 16 15:38:20.000 [notice] New control connection opened from 127.0.0.1.
+Nov 16 15:38:20.000 [notice] Bootstrapped 5%: Connecting to directory server
+Nov 16 15:38:20.000 [notice] Bootstrapped 10%: Finishing handshake with directory server
+Nov 16 15:38:21.000 [notice] Catching signal TERM, exiting cleanly.

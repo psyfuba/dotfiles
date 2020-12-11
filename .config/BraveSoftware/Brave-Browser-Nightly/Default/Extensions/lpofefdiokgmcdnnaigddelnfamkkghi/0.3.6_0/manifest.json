@@ -1,0 +1,29 @@
+{
+   "browser_action": {
+      "default_icon": {
+         "128": "icons/icon128.png",
+         "16": "icons/icon16.png",
+         "48": "icons/icon48.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "TasksBoard"
+   },
+   "description": "Standalone Desktop app for Google Tasks. Export and share your Google Tasks lists in one click.",
+   "differential_fingerprint": "1.90898d44a41efd5436beac2d385feeb2170d3fec9d65f866e6c16065eeb4f89f",
+   "homepage_url": "https://tasksboard.app/",
+   "icons": {
+      "128": "icons/icon128.png",
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp3+eMGP7lBnlw+yO1/cfGWqyNsDwVA1m0dDmdeIuSnYufiJqMRral8rsrseQYgqzSEcOco145TE6TWaTDoo+l4kCpCmhFccImypZJ3/lfW2j8MFBpxx08mgu2zQslKjxxVESm0FqLW8zX/FkZHoZl4Oz+PxT7DUHHmXcWm1ks8oIzK2b1vVtvIf7CzxasN5NEJIemXnC+0/sfOHiK3ZXSnH9aIGgI/tMPgHqh1rTVb0SSXDdu33euE6mwtwI0CT5QzLLGPueonHfNeqRPFzRvDPs3NqQEHzbTWmgnAdt9aNLpSv2IlJRA4v/qFpEEr6myiu45v6Y4rEbWi1RfaZ57wIDAQAB",
+   "manifest_version": 2,
+   "name": "Desktop app for Google Tasks",
+   "options_ui": {
+      "open_in_tab": false,
+      "page": "options.html"
+   },
+   "short_name": "google-tasks-desktop",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.3.6"
+}

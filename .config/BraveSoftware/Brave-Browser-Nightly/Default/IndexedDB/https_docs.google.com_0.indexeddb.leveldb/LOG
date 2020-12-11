@@ -1,0 +1,8 @@
+2020/12/11-17:31:17.586 26c Reusing MANIFEST /home/gugaa/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/11-17:31:17.587 26c Recovering log #86
+2020/12/11-17:31:17.587 26c Reusing old log /home/gugaa/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000086.log 
+2020/12/11-17:31:27.227 254 Level-0 table #90: started
+2020/12/11-17:31:27.227 254 Level-0 table #90: 0 bytes OK
+2020/12/11-17:31:27.232 254 Delete type=0 #86
+2020/12/11-17:31:27.232 254 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/11-17:31:27.232 254 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

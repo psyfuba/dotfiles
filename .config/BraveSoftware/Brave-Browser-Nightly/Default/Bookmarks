@@ -1,0 +1,641 @@
+{
+   "checksum": "fb31c1ab40b57b484c032d930ea12634",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "children": [ {
+                  "children": [ {
+                     "date_added": "0",
+                     "guid": "aeb81bdd-4bbd-412e-95f1-88d21a95b97f",
+                     "id": "39",
+                     "name": "log out by terminal - Google Search",
+                     "type": "url",
+                     "url": "https://www.google.com/search?client=opera&q=log+out+by+terminal&sourceid=opera&ie=UTF-8&oe=UTF-8"
+                  }, {
+                     "date_added": "0",
+                     "guid": "e91dadb3-ca08-4f19-b5e1-5bbec494fe54",
+                     "id": "40",
+                     "name": "LaTeX arrows",
+                     "type": "url",
+                     "url": "https://www.sascha-frank.com/Arrow/latex-arrows.html"
+                  }, {
+                     "date_added": "0",
+                     "guid": "77bb75c7-2e41-4303-89be-511b7d86a741",
+                     "id": "41",
+                     "name": "LaTeX Font Size and Styles - Javatpoint",
+                     "type": "url",
+                     "url": "https://www.javatpoint.com/latex-fonts-size-and-styles"
+                  }, {
+                     "date_added": "0",
+                     "guid": "9437f7cf-cb26-43c3-8aa9-1991e53e2838",
+                     "id": "42",
+                     "name": "Setting exact margins - TeX - LaTeX Stack Exchange",
+                     "type": "url",
+                     "url": "https://tex.stackexchange.com/questions/46175/setting-exact-margins"
+                  }, {
+                     "date_added": "0",
+                     "guid": "35b49017-2e50-4092-9763-dd036e4d0389",
+                     "id": "43",
+                     "name": "characters - How to get text above and below double harpoon (reversible reaction) symbols in an equation - TeX - LaTeX Stack Exchange",
+                     "type": "url",
+                     "url": "https://tex.stackexchange.com/questions/14957/how-to-get-text-above-and-below-double-harpoon-reversible-reaction-symbols-in"
+                  }, {
+                     "date_added": "0",
+                     "guid": "3175a286-26c7-4486-a5e8-6c416e193dfd",
+                     "id": "44",
+                     "name": "rules - Horizontal line spanning the entire document in LaTeX - TeX - LaTeX Stack Exchange",
+                     "type": "url",
+                     "url": "https://tex.stackexchange.com/questions/19579/horizontal-line-spanning-the-entire-document-in-latex"
+                  }, {
+                     "date_added": "0",
+                     "guid": "ae940128-1105-45a3-a067-241dce141a53",
+                     "id": "45",
+                     "name": "texmaker - How can I set a dark theme in TeXstudio? - TeX - LaTeX Stack Exchange",
+                     "type": "url",
+                     "url": "https://tex.stackexchange.com/questions/108315/how-can-i-set-a-dark-theme-in-texstudio"
+                  } ],
+                  "date_added": "13248103637256114",
+                  "date_modified": "0",
+                  "guid": "e85ff3bb-6d32-4dcc-85f9-caa964d38751",
+                  "id": "38",
+                  "name": "Comp",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "0",
+                     "guid": "6eab4fe0-2f9d-43ec-b898-2b2d31d224f5",
+                     "id": "47",
+                     "name": "Beved - Cursos online e presenciais para você aprender e ensinar novas habilidades",
+                     "type": "url",
+                     "url": "https://www.beved.com.br/classrooms/15727/classroom_steps/description"
+                  } ],
+                  "date_added": "13248103637266864",
+                  "date_modified": "0",
+                  "guid": "78d17d9e-ebe7-408d-bc3e-22f59098ff0e",
+                  "id": "46",
+                  "name": "Aulas",
+                  "type": "folder"
+               }, {
+                  "date_added": "0",
+                  "guid": "59ac6062-b2f7-4cd7-b6c5-838b672db815",
+                  "id": "49",
+                  "name": "Amino acid abbreviations",
+                  "type": "url",
+                  "url": "https://molbiol-tools.ca/Amino_acid_abbreviations.htm"
+               }, {
+                  "date_added": "0",
+                  "guid": "c86d1d39-0696-4bf8-a729-f9d2746e3482",
+                  "id": "50",
+                  "name": "Artigo científico ABNT - regras de formatação dos textos e margens",
+                  "type": "url",
+                  "url": "https://www.normasabnt.org/artigo-cientifico-abnt/"
+               }, {
+                  "date_added": "0",
+                  "guid": "2969d544-1bba-49be-8b8b-24c6529c46fb",
+                  "id": "51",
+                  "name": "Springer Ebooks.pdf.pdf.pdf.pdf.pdf",
+                  "type": "url",
+                  "url": "file:///C:/Users/gusta/Downloads/Springer%20Ebooks.pdf.pdf.pdf.pdf.pdf"
+               }, {
+                  "date_added": "0",
+                  "guid": "398a37da-9bb8-4ea1-adac-ca86dcd65cac",
+                  "id": "52",
+                  "name": "David Tong -- Cambridge Leture Notes on Dynamics and Relativity",
+                  "type": "url",
+                  "url": "http://www.damtp.cam.ac.uk/user/tong/relativity.html"
+               }, {
+                  "date_added": "0",
+                  "guid": "38e11e99-30bc-44bf-8603-f287f320d4de",
+                  "id": "53",
+                  "name": "Books - OneDrive",
+                  "type": "url",
+                  "url": "https://onedrive.live.com/?authkey=%21ABAFHr4baMC8CUY&id=F24EE5CA98711CC8%216017&cid=F24EE5CA98711CC8"
+               }, {
+                  "date_added": "0",
+                  "guid": "ab0255b2-3aa4-4941-a7a0-52dfcf0fe3f4",
+                  "id": "54",
+                  "name": "rpm3.pdf",
+                  "type": "url",
+                  "url": "https://www.ime.usp.br/~pleite/pub/artigos/elon/rpm3.pdf"
+               }, {
+                  "date_added": "0",
+                  "guid": "4f366f8d-66f9-47b8-b8d3-244933472535",
+                  "id": "55",
+                  "name": "English Karger CPM",
+                  "type": "url",
+                  "url": "https://www.kargerlearn.com/bundles/english-karger-cpm"
+               }, {
+                  "date_added": "0",
+                  "guid": "dde0d672-de59-42df-bd71-6dd5bf0ee8a9",
+                  "id": "56",
+                  "name": "Teorias da arte",
+                  "type": "url",
+                  "url": "https://criticanarede.com/est_tarte.html"
+               }, {
+                  "date_added": "0",
+                  "guid": "f4899933-cbcd-47c9-8799-6ec848f04a94",
+                  "id": "57",
+                  "name": "livros arte",
+                  "type": "url",
+                  "url": "https://woomagazine.com.br/10-livros-para-quem-ama-arte/"
+               }, {
+                  "date_added": "0",
+                  "guid": "75d005e3-412e-442e-92c1-c5dea7a209ff",
+                  "id": "58",
+                  "name": "Python",
+                  "type": "url",
+                  "url": "https://panda.ime.usp.br/aulasPython/static/aulasPython/index.html"
+               }, {
+                  "date_added": "0",
+                  "guid": "9dbb4b27-5915-4859-90af-7ebb189690d8",
+                  "id": "59",
+                  "name": "Livros",
+                  "type": "url",
+                  "url": "http://portal.iphan.gov.br/publicacoes/lista?categoria=45&busca="
+               }, {
+                  "date_added": "0",
+                  "guid": "efb1c6e5-2112-44b8-9dae-3ece89e95fab",
+                  "id": "60",
+                  "name": "Livros moda",
+                  "type": "url",
+                  "url": "http://lunelli.com.br/blog/5-livros-de-leitura-obrigatoria-para-quem-esta-estudando-moda/"
+               }, {
+                  "date_added": "0",
+                  "guid": "a5f4c68e-423c-45d4-ba9d-55787dcf19bd",
+                  "id": "61",
+                  "name": "A capacidade negativa: o desconhecido dentro de nós",
+                  "type": "url",
+                  "url": "https://www.cicloset.com.br/single-post/2017/12/06/A-capacidade-negativa-o-desconhecido-dentro-de-nos"
+               }, {
+                  "date_added": "0",
+                  "guid": "6340d625-b9e0-495d-ab9d-94c51bd0f95a",
+                  "id": "62",
+                  "name": "Popular Existentialism Nihilism Books",
+                  "type": "url",
+                  "url": "https://www.goodreads.com/shelf/show/existentialism-nihilism"
+               }, {
+                  "date_added": "0",
+                  "guid": "7be1f1d8-140e-4303-b02f-66ade4e4b7af",
+                  "id": "63",
+                  "name": "9 livros de psicologia que você não deve deixar de ler",
+                  "type": "url",
+                  "url": "https://amenteemaravilhosa.com.br/9-livros-psicologia-voce-nao-deve-deixar-ler/"
+               }, {
+                  "date_added": "0",
+                  "guid": "7c6399e8-2033-471d-a2b2-776d4c479ffb",
+                  "id": "64",
+                  "name": "livros para quem quer estudar psicanalise - Google Search",
+                  "type": "url",
+                  "url": "https://www.google.com.br/search?client=opera-gx&q=livros+para+quem+quer+estudar+psicanalise&sourceid=opera&ie=UTF-8&oe=UTF-8"
+               }, {
+                  "date_added": "0",
+                  "guid": "903e4a0e-94c4-44b0-8a72-63711d856c6d",
+                  "id": "65",
+                  "name": "5 Livros de Persuasão – Blog SBCopy – Conheça tudo sobre Copywriting",
+                  "type": "url",
+                  "url": "https://sbcopy.com.br/blog/tecnicas-de-persuasao/5-livros-de-persuasao/"
+               }, {
+                  "date_added": "0",
+                  "guid": "1eb85c6f-343a-46e1-bf66-0b381524a63a",
+                  "id": "66",
+                  "name": "livros de persuasão - Google Search",
+                  "type": "url",
+                  "url": "https://www.google.com.br/search?client=opera-gx&q=livros+de+persuas%C3%A3o&sourceid=opera&ie=UTF-8&oe=UTF-8"
+               }, {
+                  "date_added": "0",
+                  "guid": "b94f007c-e5aa-4288-ab54-9630a6665697",
+                  "id": "67",
+                  "name": "Os melhores livros sobre influência e persuasão | André Faria",
+                  "type": "url",
+                  "url": "https://blog.andrefaria.com/os-melhores-livros-sobre-influencia-e-persuasao"
+               }, {
+                  "date_added": "0",
+                  "guid": "4a44223f-79db-476e-9c81-16a8ad86f442",
+                  "id": "68",
+                  "name": "Open Content | University of Oxford Podcasts - Audio and Video Lectures",
+                  "type": "url",
+                  "url": "http://podcasts.ox.ac.uk/open"
+               }, {
+                  "date_added": "0",
+                  "guid": "564db466-305d-49b0-b8eb-95c1a3411067",
+                  "id": "69",
+                  "name": "Introdução à Ciência da Computação com Python Parte 1 - Página inicial | Coursera",
+                  "type": "url",
+                  "url": "https://www.coursera.org/learn/ciencia-computacao-python-conceitos/home/welcome"
+               }, {
+                  "date_added": "0",
+                  "guid": "b1af296e-c4e8-49c4-836a-12badd161380",
+                  "id": "70",
+                  "name": "Univesp TV",
+                  "type": "url",
+                  "url": "http://univesptv.com.br/"
+               }, {
+                  "date_added": "0",
+                  "guid": "faff019c-6889-41bc-aca8-7787e291b64e",
+                  "id": "71",
+                  "name": "The Feynman Lectures on Physics",
+                  "type": "url",
+                  "url": "https://www.feynmanlectures.caltech.edu/"
+               }, {
+                  "date_added": "0",
+                  "guid": "af3b1ad2-92b0-4ef8-b6bd-f1a653d638bf",
+                  "id": "72",
+                  "name": "H.P. Lovecraft Books: A Reading Order For Beginners | Book Riot",
+                  "type": "url",
+                  "url": "https://bookriot.com/2017/10/22/lovecraft-reading-order-beginners/"
+               }, {
+                  "date_added": "0",
+                  "guid": "43bd41f1-da21-47d6-9830-9d59cf906e04",
+                  "id": "73",
+                  "name": "Minicurso_6._A_construcao_dos_Reais.pdf",
+                  "type": "url",
+                  "url": "https://www.sbm.org.br/coloquio-centro-oeste-4/wp-content/uploads/sites/2/2016/01/Minicurso_6._A_construcao_dos_Reais.pdf"
+               }, {
+                  "date_added": "0",
+                  "guid": "8981c5a7-be31-4af0-ab17-7d2c014b9d76",
+                  "id": "74",
+                  "name": "Friedrich Nietzsche | 16 livros para baixar (PDF) - netmundi.org",
+                  "type": "url",
+                  "url": "https://www.netmundi.org/home/2017/friedrich-nietzsche-16-livros-para-baixar/"
+               }, {
+                  "date_added": "0",
+                  "guid": "e4b19d8d-3e50-4dbe-a75c-17ad69f82210",
+                  "id": "75",
+                  "name": "PYTHON – FOLHA DE CONSULTA, por V.W.Setzer",
+                  "type": "url",
+                  "url": "https://www.ime.usp.br/~vwsetzer/python-opers-funcoes.html"
+               }, {
+                  "date_added": "0",
+                  "guid": "da29867c-2278-4d0b-94e6-8e8a38c14868",
+                  "id": "76",
+                  "name": "Freud | Le Livros",
+                  "type": "url",
+                  "url": "http://lelivros.love/?x=12&y=12&s=Freud&fbclid=IwAR31KwB-Wm3i_iDntvgk3Ftfjx1UsXZDI3E1YpPAmjQNNSlOMuJD-cvdLUM"
+               }, {
+                  "date_added": "0",
+                  "guid": "751e0432-0824-479c-b002-27836b202e7e",
+                  "id": "77",
+                  "name": "Ensino à Química: Livros para download",
+                  "type": "url",
+                  "url": "http://quimicavirtualufc.blogspot.com/p/livros-para-download.html"
+               }, {
+                  "date_added": "0",
+                  "guid": "2b33a3b2-8f83-4933-bbed-6b51d4ffde76",
+                  "id": "78",
+                  "name": "Aprender Química: Livros de Química (E-books)",
+                  "type": "url",
+                  "url": "http://aprenderquimica.blogspot.com/2011/05/livros-de-quimica-e-books.html"
+               }, {
+                  "date_added": "0",
+                  "guid": "6a60a0b9-4e70-4661-9d84-c108ce855e97",
+                  "id": "79",
+                  "name": "Pythagoras Theorem Explained - Mathemagic with Bawa - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=sv2iHQIpZW8&list=PLVwX4RvMreUTExLDlx72gn7oOePKNKO2D&index=81"
+               }, {
+                  "date_added": "0",
+                  "guid": "16bdcbb2-366b-4709-9228-871bfa3ef4b9",
+                  "id": "80",
+                  "name": "Livros ITA",
+                  "type": "url",
+                  "url": "https://www.resumov.com.br/como-passar-no-ita-livros-cursinho/"
+               }, {
+                  "date_added": "0",
+                  "guid": "5ed7f334-9915-4b85-bb1e-a46c1858e01c",
+                  "id": "81",
+                  "name": "Iezzi",
+                  "type": "url",
+                  "url": "http://fuvestibular.com.br/apostilas/fundamentos-da-matematica-elementar/vol-1/"
+               }, {
+                  "date_added": "0",
+                  "guid": "0be00698-eeaa-46ea-a33c-b6a22cd9d58c",
+                  "id": "82",
+                  "name": "Calculo",
+                  "type": "url",
+                  "url": "https://sites.google.com/view/gzamudio/teaching/mat2110-2020/conte%C3%BAdo?authuser=0"
+               }, {
+                  "date_added": "0",
+                  "guid": "29ee496a-baaa-4938-a62e-ee0ab2c5ac91",
+                  "id": "198",
+                  "name": "Compartilhado - OneDrive",
+                  "type": "url",
+                  "url": "https://onedrive.live.com/?authkey=%21ABAFHr4baMC8CUY&id=root&cid=4C74CC9C09EBFE69&qt=sharedby"
+               }, {
+                  "date_added": "0",
+                  "guid": "9bba1460-91f4-47a3-ba41-81e7f1c33b97",
+                  "id": "199",
+                  "name": "Alpha helix - Proteopedia, life in 3D",
+                  "type": "url",
+                  "url": "http://proteopedia.org/wiki/index.php/Alpha_helix#:~:text=motm%2F217).-,Alpha%20helices%20in%20coiled%20coils,opposite%20major%20grooves%20of%20DNA."
+               } ],
+               "date_added": "13248103637269671",
+               "date_modified": "13249016968545458",
+               "guid": "8289e552-ca9f-43bd-b632-364bbb441db3",
+               "id": "48",
+               "name": "Estudos",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "0",
+                  "guid": "45959f7a-2adb-447f-b766-69a2f5482b3b",
+                  "id": "84",
+                  "name": "80's Color Block Jogger - MultiColor – Fashion Nova",
+                  "type": "url",
+                  "url": "https://www.fashionnova.com/collections/mens-active-joggers/products/80s-color-block-jogger-multicolor"
+               }, {
+                  "date_added": "0",
+                  "guid": "527d7051-c935-45ec-9550-db074ca8e4b5",
+                  "id": "85",
+                  "name": "BlackAlfa",
+                  "type": "url",
+                  "url": "https://blackalfa.com.br/"
+               }, {
+                  "date_added": "0",
+                  "guid": "d97d2ab4-feb3-4537-b34c-363036624812",
+                  "id": "86",
+                  "name": "Zaful",
+                  "type": "url",
+                  "url": "https://br.zaful.com/jeans-e_144/"
+               }, {
+                  "date_added": "0",
+                  "guid": "8bd8dfa5-271c-449e-b891-371296663a8d",
+                  "id": "87",
+                  "name": "Fashion Nova",
+                  "type": "url",
+                  "url": "https://www.fashionnova.com/"
+               }, {
+                  "date_added": "0",
+                  "guid": "beb3d017-57f5-450f-8d77-41fdda4512d8",
+                  "id": "88",
+                  "name": "Shein",
+                  "type": "url",
+                  "url": "https://br.shein.com/men?icn=MenHomePage&ici=br_tab02"
+               } ],
+               "date_added": "13248103637276039",
+               "date_modified": "13249016973442053",
+               "guid": "9661da37-b58a-4423-b95f-b08e8bd6705f",
+               "id": "83",
+               "name": "Roupas",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "0",
+                  "guid": "bfde6e35-49e5-4d29-8f0e-7ab72ba3c687",
+                  "id": "90",
+                  "name": "SOUND EFFECTS PACK! (#5) - 50+ NON COPYRIGHTED SOUND EFFECTS! (Good for Improving YouTube Videos!) - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=zCAuiMT2Ft8&t=52s"
+               }, {
+                  "date_added": "0",
+                  "guid": "dc6f5dc6-5179-4c41-ba75-f31e8d51f7b2",
+                  "id": "91",
+                  "name": "SOUND EFFECTS PACK! (#4) - 50+ SOUND EFFECTS! (Good for Improving YouTube Videos!) - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=BOoT_UGtsK0"
+               }, {
+                  "date_added": "0",
+                  "guid": "fa7305b4-c21f-4008-b645-e127889b1518",
+                  "id": "92",
+                  "name": "MEME SOUND EFFECTS FOR EDITING - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=WyFy51GtCJY"
+               } ],
+               "date_added": "13248103637287310",
+               "date_modified": "0",
+               "guid": "90c0ca8d-1956-4383-826f-fabed66ef2b5",
+               "id": "89",
+               "name": "Edição do vídeo",
+               "type": "folder"
+            } ],
+            "date_added": "13249018124548904",
+            "date_modified": "13249018133243170",
+            "guid": "4a066c20-6b28-430b-b760-f7c0591ca8ff",
+            "id": "213",
+            "name": "Atum",
+            "type": "folder"
+         }, {
+            "date_added": "13249017365450988",
+            "guid": "85c20b93-8473-4e60-9358-9f9e0d6bed23",
+            "id": "201",
+            "name": "",
+            "type": "url",
+            "url": "https://www.youtube.com/feed/subscriptions"
+         }, {
+            "date_added": "0",
+            "guid": "1e5e8052-7bfa-486a-9ad5-42213f7ff4e9",
+            "id": "7",
+            "name": "",
+            "type": "url",
+            "url": "https://thepiratebay.cx/home/"
+         }, {
+            "date_added": "0",
+            "guid": "200f3de8-857f-41f8-907e-cb8c488b3349",
+            "id": "8",
+            "name": "",
+            "type": "url",
+            "url": "https://www.crunchyroll.com/home/history"
+         }, {
+            "date_added": "13249017478920017",
+            "guid": "6dd66fc3-86ec-48bd-8cab-ea8c106294d3",
+            "id": "204",
+            "name": "",
+            "type": "url",
+            "url": "https://drive.google.com/drive/u/0/my-drive"
+         }, {
+            "date_added": "13249017508743199",
+            "guid": "b08f4e57-199e-41c8-b019-8982593f7396",
+            "id": "205",
+            "name": "",
+            "type": "url",
+            "url": "https://calendar.google.com/calendar/u/1/r/week?pli=1"
+         }, {
+            "date_added": "13249017555200526",
+            "guid": "00507a67-eb19-42e8-8c85-e021360d2928",
+            "id": "206",
+            "name": "",
+            "type": "url",
+            "url": "https://ae4.tidia-ae.usp.br/portal/site/f1bc8f84-11e6-4553-ab4c-178f65f7d516/page/0ce931f5-7c36-4d4f-95eb-cf30949fdcf7"
+         }, {
+            "date_added": "13249017616513075",
+            "guid": "5031fb38-ca81-4214-8aee-6c32ec935eed",
+            "id": "207",
+            "name": "",
+            "type": "url",
+            "url": "https://www.notion.so/Biologia-269e8839ae524af0987d02241c09db87"
+         }, {
+            "date_added": "0",
+            "guid": "89aa2a0b-ff5c-4775-a2b7-e62289cee8fa",
+            "id": "33",
+            "name": "",
+            "type": "url",
+            "url": "https://www.math.brown.edu/~jhs/ReferenceCards/TeXRefCard.v1.5.pdf"
+         }, {
+            "date_added": "0",
+            "guid": "be65d8a5-3245-4f00-aeb4-de80044216cf",
+            "id": "34",
+            "name": "",
+            "type": "url",
+            "url": "https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols"
+         }, {
+            "date_added": "13249017804571579",
+            "guid": "2d689d45-fae6-487a-8f62-9761c96782d9",
+            "id": "208",
+            "name": "",
+            "type": "url",
+            "url": "https://uspdigital.usp.br/jupiterweb/autenticar"
+         }, {
+            "date_added": "0",
+            "guid": "6b5223d2-ee58-45b3-a4e9-11ff0fbc4d00",
+            "id": "18",
+            "name": "",
+            "type": "url",
+            "url": "https://edisciplinas.usp.br/"
+         }, {
+            "date_added": "0",
+            "guid": "855a0f24-b35b-4edf-b17e-b2c42ecae853",
+            "id": "20",
+            "name": "",
+            "type": "url",
+            "url": "https://scholar.google.com/"
+         }, {
+            "date_added": "13249017864978169",
+            "guid": "deb6889c-dd19-4dc7-a8cf-bce29c4b0830",
+            "id": "209",
+            "name": "SH",
+            "type": "url",
+            "url": "https://www.google.com/search?sxsrf=ALeKk02qwV5JK-m57GfAorAiPBX_PVGNMg%3A1604544207045&source=hp&ei=zmajX5HHPISG0Abfvrm4Ag&q=sci+hub&oq=sci+hub&gs_lcp=CgZwc3ktYWIQAzIHCCMQyQMQJzIFCAAQkQIyBQgAEMsBMgUIABDLATIFCAAQywEyBQgAEMsBMgUIABDLATIFCAAQywEyBQgAEMsBMgUIABDLAToHCCMQ6gIQJzoECCMQJzoHCAAQyQMQQzoECAAQQzoECC4QQzoCCAA6BwgAEBQQhwI6AgguUPAFWIALYO8LaABwAHgAgAGzAogBywiSAQcwLjYuMC4xmAEAoAEBqgEHZ3dzLXdperABCg&sclient=psy-ab&ved=0ahUKEwiR5u_7sOrsAhUEA9QKHV9fDicQ4dUDCAc&uact=5"
+         }, {
+            "date_added": "13250025167073543",
+            "guid": "97e1359c-4abb-4ad6-92ce-74591504d957",
+            "id": "217",
+            "name": "",
+            "type": "url",
+            "url": "https://docs.google.com/spreadsheets/u/0/"
+         }, {
+            "date_added": "13249017886105461",
+            "guid": "ede6c7f0-f923-48e9-959d-8d3b86b0b371",
+            "id": "210",
+            "name": "",
+            "type": "url",
+            "url": "https://ptable.com/#Properties"
+         }, {
+            "date_added": "0",
+            "guid": "0e790879-3b3b-4fc1-9909-48553f0e9e50",
+            "id": "23",
+            "name": "",
+            "type": "url",
+            "url": "https://pt.symbolab.com/"
+         }, {
+            "date_added": "0",
+            "guid": "5a58fe98-797d-4884-9b1e-d1f7bf8a93b5",
+            "id": "24",
+            "name": "",
+            "type": "url",
+            "url": "https://www.academia.edu/Library"
+         }, {
+            "date_added": "0",
+            "guid": "2e4f5e91-eed7-4507-b482-6532bf0cd54a",
+            "id": "27",
+            "name": "Post Rock",
+            "type": "url",
+            "url": "https://papodehomem.com.br/24-albuns-pra-manjar-mais-que-o-suficiente-sobre-post-rock/"
+         }, {
+            "date_added": "0",
+            "guid": "dee18f31-9c58-40f0-aa03-97d3213f5886",
+            "id": "28",
+            "name": "Lilium - sleeping inside - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=VJrozHgXbCI"
+         }, {
+            "date_added": "13249017969359407",
+            "guid": "8a852030-ae69-4bda-a718-846ac8e102e5",
+            "id": "211",
+            "name": "'El abrazo de la serpiente' é um filme violento e psicodélico sobre a colonização da Amazônia",
+            "type": "url",
+            "url": "https://www.vice.com/pt/article/wd7k74/el-abrazo-de-la-serpiente-e-um-filme-violento-e-psicodelico-sobre-a-colonizacao-da-amazonia"
+         }, {
+            "date_added": "0",
+            "guid": "6cc67079-ed52-4689-b268-ffb3c4a1a114",
+            "id": "35",
+            "name": "Aromaticidade",
+            "type": "url",
+            "url": "https://iqm.unicamp.br/sites/default/files/Aula%2011%20-%20Aromaticidade.pdf"
+         }, {
+            "date_added": "0",
+            "guid": "4c6152c5-cc1c-4c40-92ef-6743fe06185d",
+            "id": "30",
+            "name": "Dark Souls 3 Character Planner",
+            "type": "url",
+            "url": "https://soulsplanner.com/darksouls3"
+         }, {
+            "date_added": "0",
+            "guid": "f24e0681-aab6-43bd-aa89-aebd0f5db989",
+            "id": "31",
+            "name": "bruh.mp4 - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=6LBZRFbb3Jo"
+         }, {
+            "date_added": "0",
+            "guid": "59ce793b-b056-4508-9692-178b43346205",
+            "id": "32",
+            "name": "Os 30 melhores filmes franceses que você precisa conhecer - Pensador",
+            "type": "url",
+            "url": "https://www.pensador.com/melhores_filmes_franceses/"
+         }, {
+            "date_added": "0",
+            "guid": "7a2eb76f-ed8a-44a4-843f-8172059eec86",
+            "id": "36",
+            "name": "Learn LaTeX Tutorial (2): Labels, References and Lists (ordered and unordered) - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=25LExaNtdF0"
+         }, {
+            "date_added": "13249018092083760",
+            "guid": "e4dba8d7-d38c-4b64-878a-079b3be72ceb",
+            "id": "212",
+            "name": "Publicações | Fundação Calouste Gulbenkian",
+            "type": "url",
+            "url": "https://gulbenkian.pt/publicacoes/"
+         }, {
+            "date_added": "13249929425946566",
+            "guid": "ac65ab3c-7215-4910-90c6-7ad9862d7f32",
+            "id": "215",
+            "name": "AUR (en) - brave",
+            "type": "url",
+            "url": "https://aur.archlinux.org/packages/brave/"
+         }, {
+            "date_added": "13250025313399047",
+            "guid": "7d521b2f-b4e6-447b-9158-668201f04de9",
+            "id": "218",
+            "name": "",
+            "type": "url",
+            "url": "chrome-extension://jidkidbbcafjabdphckchenhfomhnfma/out/c9255cc2aa3d81ca6328e82d25a95766.png"
+         } ],
+         "date_added": "13248077959284505",
+         "date_modified": "13250025442532897",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13248077959284510",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13248077959284511",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

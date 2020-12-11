@@ -1,0 +1,18 @@
+2020/12/11-17:30:59.952 256 Reusing MANIFEST /home/gugaa/.config/BraveSoftware/Brave-Browser-Nightly/Default/Local Storage/leveldb/MANIFEST-000001
+2020/12/11-17:30:59.957 256 Recovering log #262
+2020/12/11-17:30:59.958 256 Reusing old log /home/gugaa/.config/BraveSoftware/Brave-Browser-Nightly/Default/Local Storage/leveldb/000262.log 
+2020/12/11-17:31:29.291 362 Level-0 table #266: started
+2020/12/11-17:31:29.302 362 Level-0 table #266: 103437 bytes OK
+2020/12/11-17:31:29.307 362 Delete type=0 #262
+2020/12/11-17:31:29.307 254 Compacting 4@0 + 1@1 files
+2020/12/11-17:31:29.389 254 Generated table #267@0: 1689 keys, 1417320 bytes
+2020/12/11-17:31:29.389 254 Compacted 4@0 + 1@1 files => 1417320 bytes
+2020/12/11-17:31:29.397 254 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/12/11-17:31:29.405 254 Delete type=2 #256
+2020/12/11-17:31:29.405 254 Delete type=2 #266
+2020/12/11-17:31:29.410 254 Delete type=2 #261
+2020/12/11-17:31:29.410 254 Delete type=2 #263
+2020/12/11-17:31:29.410 254 Delete type=2 #259
+2020/12/11-17:35:58.085 79c Level-0 table #269: started
+2020/12/11-17:35:58.094 79c Level-0 table #269: 114806 bytes OK
+2020/12/11-17:35:58.097 79c Delete type=0 #265

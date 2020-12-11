@@ -1,0 +1,6 @@
+2020/11/16-08:13:20.060 78f Reusing MANIFEST /home/gugaa/.config/opera/Local Storage/leveldb/MANIFEST-000001
+2020/11/16-08:13:20.060 78f Recovering log #44
+2020/11/16-08:13:20.060 78f Reusing old log /home/gugaa/.config/opera/Local Storage/leveldb/000044.log 
+2020/11/16-08:13:29.425 78b Level-0 table #48: started
+2020/11/16-08:13:29.434 78b Level-0 table #48: 67897 bytes OK
+2020/11/16-08:13:29.438 78b Delete type=0 #44

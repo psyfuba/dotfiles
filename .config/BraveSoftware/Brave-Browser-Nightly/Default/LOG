@@ -1,0 +1,11 @@
+2020/11/30-14:34:35.633 8a1 Recovering log #21
+2020/11/30-14:34:35.634 8a1 Level-0 table #23: started
+2020/11/30-14:34:35.638 8a1 Level-0 table #23: 796 bytes OK
+2020/11/30-14:34:35.656 8a1 Delete type=3 #19
+2020/11/30-14:34:35.656 8a1 Delete type=0 #21
+2020/11/30-14:34:35.744 8a1 Level-0 table #26: started
+2020/11/30-14:34:35.753 8a1 Level-0 table #26: 1031598 bytes OK
+2020/11/30-14:34:35.758 8a1 Delete type=0 #24
+2020/11/30-14:34:38.236 934 Level-0 table #28: started
+2020/11/30-14:34:38.251 934 Level-0 table #28: 1031765 bytes OK
+2020/11/30-14:34:38.255 934 Delete type=0 #25

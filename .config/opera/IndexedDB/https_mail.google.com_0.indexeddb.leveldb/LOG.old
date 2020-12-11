@@ -1,0 +1,15 @@
+2020/10/26-19:09:26.363 284 Reusing MANIFEST /home/gugaa/.config/opera/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/26-19:09:26.363 284 Recovering log #4
+2020/10/26-19:09:26.378 284 Reusing old log /home/gugaa/.config/opera/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000004.log 
+2020/10/26-19:10:00.972 24e Level-0 table #8: started
+2020/10/26-19:10:01.021 24e Level-0 table #8: 900342 bytes OK
+2020/10/26-19:10:01.030 24e Delete type=0 #4
+2020/10/26-19:10:01.031 24e Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/10/26-19:10:01.031 24e Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x08\x01\x02\x01\x15\x00S\x00t\x00o\x00r\x00e\x00d\x00C\x00a\x00c\x00h\x00e\x00S\x00t\x00a\x00t\x00e\x00:\x00:\x00A\x00L\x00L' @ 2197 : 1
+2020/10/26-19:10:01.031 24e Compacting 1@1 + 1@2 files
+2020/10/26-19:10:01.044 24e Generated table #9@1: 90 keys, 53302 bytes
+2020/10/26-19:10:01.044 24e Compacted 1@1 + 1@2 files => 53302 bytes
+2020/10/26-19:10:01.047 24e compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/10/26-19:10:01.047 24e Delete type=2 #8
+2020/10/26-19:10:01.047 24e Delete type=2 #5
+2020/10/26-19:10:01.048 24e Manual compaction at level-1 from '\x00\x08\x01\x02\x01\x15\x00S\x00t\x00o\x00r\x00e\x00d\x00C\x00a\x00c\x00h\x00e\x00S\x00t\x00a\x00t\x00e\x00:\x00:\x00A\x00L\x00L' @ 2197 : 1 .. (end); will stop at (end)

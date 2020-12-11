@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/gugaa/faculdade/faculdade/Fotos" added="2020-11-06T02:39:22.120491Z" modified="2020-11-06T02:39:22.120497Z" visited="2020-11-06T02:39:22.120492Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2020-11-06T02:39:22.120494Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/gugaa/faculdade/faculdade" added="2020-11-06T02:39:22.120498Z" modified="2020-11-06T02:39:22.120501Z" visited="2020-11-06T02:39:22.120499Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2020-11-06T02:39:22.120500Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/gugaa/faculdade" added="2020-11-06T02:39:22.120502Z" modified="2020-11-06T02:39:22.120505Z" visited="2020-11-06T02:39:22.120502Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2020-11-06T02:39:22.120504Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/gugaa/Desktop" added="2020-11-06T02:39:22.120506Z" modified="2020-11-06T02:39:22.120527Z" visited="2020-11-06T02:39:22.120506Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2020-11-06T02:39:22.120526Z" count="2"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/gugaa/Documents" added="2020-11-06T02:39:22.120510Z" modified="2020-11-06T02:39:22.120512Z" visited="2020-11-06T02:39:22.120510Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2020-11-06T02:39:22.120511Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/gugaa/dotfiles" added="2020-11-06T02:39:22.120514Z" modified="2020-11-06T02:39:22.120516Z" visited="2020-11-06T02:39:22.120514Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2020-11-06T02:39:22.120515Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/gugaa/brave" added="2020-11-06T02:39:22.120517Z" modified="2020-11-06T02:39:22.120520Z" visited="2020-11-06T02:39:22.120518Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2020-11-06T02:39:22.120518Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/gugaa/Curriculo" added="2020-11-06T02:39:22.120523Z" modified="2020-11-06T02:39:22.120525Z" visited="2020-11-06T02:39:22.120523Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2020-11-06T02:39:22.120524Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/gugaa" added="2020-11-06T02:39:22.120528Z" modified="2020-11-06T02:39:22.120531Z" visited="2020-11-06T02:39:22.120529Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2020-11-06T02:39:22.120529Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///" added="2020-11-06T02:39:22.120532Z" modified="2020-11-06T02:39:22.120534Z" visited="2020-11-06T02:39:22.120532Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2020-11-06T02:39:22.120533Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/gugaa/Downloads" added="2020-11-06T02:39:22.120535Z" modified="2020-11-06T02:39:22.120538Z" visited="2020-11-06T02:39:22.120536Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2020-11-06T02:39:22.120537Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/gugaa/Pictures" added="2020-11-06T02:39:22.120539Z" modified="2020-11-06T02:39:22.120542Z" visited="2020-11-06T02:39:22.120539Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2020-11-06T02:39:22.120540Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

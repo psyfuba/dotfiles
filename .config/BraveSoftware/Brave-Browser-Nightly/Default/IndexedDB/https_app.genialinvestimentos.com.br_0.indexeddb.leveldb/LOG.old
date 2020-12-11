@@ -1,0 +1,6 @@
+2020/11/28-00:47:16.653 21215 Reusing MANIFEST /home/gugaa/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_app.genialinvestimentos.com.br_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/28-00:47:17.971 21e93 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/11/28-00:47:33.721 21e91 Level-0 table #5: started
+2020/11/28-00:47:33.733 21e91 Level-0 table #5: 5774 bytes OK
+2020/11/28-00:47:33.752 21e91 Delete type=0 #3
+2020/11/28-00:47:33.752 21e91 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

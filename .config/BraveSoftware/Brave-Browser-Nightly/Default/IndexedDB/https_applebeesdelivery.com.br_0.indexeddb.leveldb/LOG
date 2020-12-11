@@ -1,0 +1,5 @@
+2020/11/03-12:46:10.235 25c2 Reusing MANIFEST /home/gugaa/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_applebeesdelivery.com.br_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/03-12:46:25.210 25c2 Level-0 table #5: started
+2020/11/03-12:46:25.217 25c2 Level-0 table #5: 5265 bytes OK
+2020/11/03-12:46:25.222 25c2 Delete type=0 #3
+2020/11/03-12:46:25.223 25c2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

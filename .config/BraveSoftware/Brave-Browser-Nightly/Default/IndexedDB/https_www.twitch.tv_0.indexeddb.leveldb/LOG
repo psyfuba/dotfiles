@@ -1,0 +1,15 @@
+2020/11/28-00:17:00.617 bc2 Reusing MANIFEST /home/gugaa/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_www.twitch.tv_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/28-00:17:00.617 bc2 Recovering log #71
+2020/11/28-00:17:00.617 bc2 Reusing old log /home/gugaa/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_www.twitch.tv_0.indexeddb.leveldb/000071.log 
+2020/11/28-00:17:32.631 bc2 Level-0 table #76: started
+2020/11/28-00:17:32.636 bc2 Level-0 table #76: 466 bytes OK
+2020/11/28-00:17:32.639 bc2 Delete type=0 #71
+2020/11/28-00:17:32.640 bc2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/28-00:17:32.641 bc2 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x0f\x00c\x00u\x00r\x00r\x00e\x00n\x00t\x00_\x00u\x00s\x00e\x00r\x00_\x00i\x00d' @ 287 : 1
+2020/11/28-00:17:32.641 bc2 Compacting 1@1 + 1@2 files
+2020/11/28-00:17:32.645 bc2 Generated table #77@1: 20 keys, 573 bytes
+2020/11/28-00:17:32.645 bc2 Compacted 1@1 + 1@2 files => 573 bytes
+2020/11/28-00:17:32.649 bc2 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/11/28-00:17:32.650 bc2 Delete type=2 #76
+2020/11/28-00:17:32.650 bc2 Delete type=2 #73
+2020/11/28-00:17:32.650 43b5 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x0f\x00c\x00u\x00r\x00r\x00e\x00n\x00t\x00_\x00u\x00s\x00e\x00r\x00_\x00i\x00d' @ 287 : 1 .. (end); will stop at (end)

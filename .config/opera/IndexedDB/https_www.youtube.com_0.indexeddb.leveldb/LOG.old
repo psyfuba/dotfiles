@@ -1,0 +1,15 @@
+2020/10/30-10:43:03.746 232 Reusing MANIFEST /home/gugaa/.config/opera/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/30-10:43:03.747 232 Recovering log #7
+2020/10/30-10:43:03.747 232 Reusing old log /home/gugaa/.config/opera/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000007.log 
+2020/10/30-10:43:13.931 4ec Level-0 table #12: started
+2020/10/30-10:43:13.937 4ec Level-0 table #12: 2999 bytes OK
+2020/10/30-10:43:13.940 4ec Delete type=0 #7
+2020/10/30-10:43:13.940 4ec Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/10/30-10:43:13.941 4ec Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01\x02\x01\x16\x00a\x00p\x00p\x00l\x00i\x00c\x00a\x00t\x00i\x00o\x00n\x00_\x00s\x00e\x00r\x00v\x00e\x00r\x00_\x00k\x00e\x00y' @ 455 : 1
+2020/10/30-10:43:13.941 4ec Compacting 1@1 + 1@2 files
+2020/10/30-10:43:13.944 4ec Generated table #13@1: 62 keys, 2093 bytes
+2020/10/30-10:43:13.944 4ec Compacted 1@1 + 1@2 files => 2093 bytes
+2020/10/30-10:43:13.947 4ec compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/10/30-10:43:13.947 4ec Delete type=2 #12
+2020/10/30-10:43:13.947 4ec Delete type=2 #9
+2020/10/30-10:43:13.948 4ec Manual compaction at level-1 from '\x00\x03\x01\x02\x01\x16\x00a\x00p\x00p\x00l\x00i\x00c\x00a\x00t\x00i\x00o\x00n\x00_\x00s\x00e\x00r\x00v\x00e\x00r\x00_\x00k\x00e\x00y' @ 455 : 1 .. (end); will stop at (end)

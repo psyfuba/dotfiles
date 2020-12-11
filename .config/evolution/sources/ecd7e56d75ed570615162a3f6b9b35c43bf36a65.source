@@ -1,0 +1,20 @@
+[Data Source]
+DisplayName=Hotmail
+Enabled=true
+Parent=0fe2bc60ea2c71415b7c7b5d842468e27f3a470d
+
+[Authentication]
+Host=smtp.office365.com
+Method=LOGIN
+Port=587
+ProxyUid=system-proxy
+RememberPassword=true
+User=gustavosteckelberg@hotmail.com
+CredentialName=
+IsExternal=false
+
+[Security]
+Method=starttls-on-standard-port
+
+[Mail Transport]
+BackendName=smtp

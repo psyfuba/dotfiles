@@ -1,0 +1,6 @@
+2020/11/29-06:47:03.818 128aa Reusing MANIFEST /home/gugaa/.config/whatsapp-nativefier-d40211/Local Storage/leveldb/MANIFEST-000001
+2020/11/29-06:47:03.820 128aa Recovering log #25
+2020/11/29-06:47:03.822 128aa Reusing old log /home/gugaa/.config/whatsapp-nativefier-d40211/Local Storage/leveldb/000025.log 
+2020/11/29-06:49:04.787 14edb Level-0 table #29: started
+2020/11/29-06:49:04.794 14edb Level-0 table #29: 27944 bytes OK
+2020/11/29-06:49:04.798 14edb Delete type=0 #25

@@ -1,0 +1,51 @@
+2020/10/26-19:09:44.000 24e Reusing MANIFEST /home/gugaa/.config/opera/IndexedDB/https_app.genialinvestimentos.com.br_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/26-19:09:45.183 250 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/10/26-19:11:57.538 250 Level-0 table #5: started
+2020/10/26-19:11:57.542 250 Level-0 table #5: 260512 bytes OK
+2020/10/26-19:11:57.545 250 Delete type=0 #3
+2020/10/26-19:11:57.546 250 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/10/26-19:12:14.024 285 Level-0 table #7: started
+2020/10/26-19:12:14.028 285 Level-0 table #7: 152781 bytes OK
+2020/10/26-19:12:14.031 285 Delete type=0 #4
+2020/10/26-19:12:14.031 285 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/10/26-19:21:14.936 dfc Level-0 table #9: started
+2020/10/26-19:21:14.941 dfc Level-0 table #9: 299191 bytes OK
+2020/10/26-19:21:14.944 dfc Delete type=0 #6
+2020/10/26-19:21:14.946 dfc Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x00\x00\x05' @ 523 : 1
+2020/10/26-19:21:14.946 dfc Compacting 1@0 + 1@1 files
+2020/10/26-19:21:14.951 dfc Generated table #10@0: 71 keys, 26836 bytes
+2020/10/26-19:21:14.951 dfc Compacted 1@0 + 1@1 files => 26836 bytes
+2020/10/26-19:21:14.954 dfc compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/10/26-19:21:14.954 dfc Delete type=2 #9
+2020/10/26-19:21:14.954 dfc Manual compaction at level-0 from '\x00\x06\x00\x00\x05' @ 523 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/10/27-00:02:53.737 7ba Level-0 table #12: started
+2020/10/27-00:02:53.742 7ba Level-0 table #12: 103903 bytes OK
+2020/10/27-00:02:53.746 7ba Delete type=2 #7
+2020/10/27-00:02:53.746 7ba Delete type=0 #8
+2020/10/27-00:02:53.747 7ba Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x00\x00\x05' @ 590 : 1
+2020/10/27-00:02:53.747 7ba Compacting 1@0 + 1@1 files
+2020/10/27-00:02:53.750 7ba Generated table #13@0: 91 keys, 27749 bytes
+2020/10/27-00:02:53.750 7ba Compacted 1@0 + 1@1 files => 27749 bytes
+2020/10/27-00:02:53.753 7ba compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/10/27-00:02:53.753 7ba Delete type=2 #12
+2020/10/27-00:02:53.753 7ba Manual compaction at level-0 from '\x00\x07\x00\x00\x05' @ 590 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/10/27-00:10:35.982 1a7e Level-0 table #15: started
+2020/10/27-00:10:35.991 1a7e Level-0 table #15: 184782 bytes OK
+2020/10/27-00:10:35.995 1a7e Delete type=0 #11
+2020/10/27-00:10:35.995 1a7e Delete type=2 #10
+2020/10/27-00:10:35.996 1a7e Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x03\x01\x02\x012\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x008\x008\x004\x007\x000\x004\x003\x007\x000\x007\x000\x00:\x00w\x00e\x00b\x00:\x007\x008\x005\x00a\x002\x00b\x004\x003\x00e\x00b\x00f\x008\x00a\x007\x002\x000\x008\x00e\x00a\x004\x009\x00f' @ 616 : 1
+2020/10/27-00:10:35.996 1a7e Compacting 1@0 + 1@1 files
+2020/10/27-00:10:36.001 1a7e Generated table #16@0: 139 keys, 28476 bytes
+2020/10/27-00:10:36.001 1a7e Compacted 1@0 + 1@1 files => 28476 bytes
+2020/10/27-00:10:36.005 1a7e compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/10/27-00:10:36.005 1a7e Delete type=2 #13
+2020/10/27-00:10:36.006 1a7e Delete type=2 #15
+2020/10/27-00:10:36.006 1a7e Manual compaction at level-0 from '\x00\x03\x01\x02\x012\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x008\x008\x004\x007\x000\x004\x003\x007\x000\x007\x000\x00:\x00w\x00e\x00b\x00:\x007\x008\x005\x00a\x002\x00b\x004\x003\x00e\x00b\x00f\x008\x00a\x007\x002\x000\x008\x00e\x00a\x004\x009\x00f' @ 616 : 1 .. (end); will stop at (end)
+2020/10/27-00:10:36.006 1a7e Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01\x02\x012\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x008\x008\x004\x007\x000\x004\x003\x007\x000\x007\x000\x00:\x00w\x00e\x00b\x00:\x007\x008\x005\x00a\x002\x00b\x004\x003\x00e\x00b\x00f\x008\x00a\x007\x002\x000\x008\x00e\x00a\x004\x009\x00f' @ 635 : 1
+2020/10/27-00:10:36.007 1a7e Compacting 1@1 + 1@2 files
+2020/10/27-00:10:36.011 1a7e Generated table #17@1: 43 keys, 26975 bytes
+2020/10/27-00:10:36.011 1a7e Compacted 1@1 + 1@2 files => 26975 bytes
+2020/10/27-00:10:36.015 1a7e compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/10/27-00:10:36.016 1a7e Delete type=2 #16
+2020/10/27-00:10:36.016 1a7e Delete type=2 #5
+2020/10/27-00:10:36.017 1a7e Manual compaction at level-1 from '\x00\x03\x01\x02\x012\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x008\x008\x004\x007\x000\x004\x003\x007\x000\x007\x000\x00:\x00w\x00e\x00b\x00:\x007\x008\x005\x00a\x002\x00b\x004\x003\x00e\x00b\x00f\x008\x00a\x007\x002\x000\x008\x00e\x00a\x004\x009\x00f' @ 635 : 1 .. (end); will stop at (end)

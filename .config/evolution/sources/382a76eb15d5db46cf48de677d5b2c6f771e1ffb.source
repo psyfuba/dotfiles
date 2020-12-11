@@ -1,0 +1,29 @@
+[Data Source]
+DisplayName=Hotmail
+Enabled=true
+Parent=0fe2bc60ea2c71415b7c7b5d842468e27f3a470d
+
+[Mail Submission]
+SentFolder=folder://0fe2bc60ea2c71415b7c7b5d842468e27f3a470d/Sent
+TransportUid=ecd7e56d75ed570615162a3f6b9b35c43bf36a65
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://0fe2bc60ea2c71415b7c7b5d842468e27f3a470d/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=folder://local/Templates
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=gustavosteckelberg@hotmail.com
+Aliases=
+Name=Gustavo Andrioli Steckelberg
+Organization=
+ReplyTo=
+SignatureUid=none

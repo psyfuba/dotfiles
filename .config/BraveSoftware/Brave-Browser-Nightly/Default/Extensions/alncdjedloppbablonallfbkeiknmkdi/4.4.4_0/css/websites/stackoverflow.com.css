@@ -1,0 +1,5 @@
+.question-status,
+.s-sidebarwidget__yellow,
+.s-sidebarwidget__yellow .s-sidebarwidget--header {
+    background-color: #292812 !important;
+}

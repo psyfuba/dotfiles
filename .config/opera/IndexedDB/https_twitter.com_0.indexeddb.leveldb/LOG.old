@@ -1,0 +1,15 @@
+2020/10/30-10:59:04.762 159e Reusing MANIFEST /home/gugaa/.config/opera/IndexedDB/https_twitter.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/30-10:59:04.762 159e Recovering log #18
+2020/10/30-10:59:04.763 159e Reusing old log /home/gugaa/.config/opera/IndexedDB/https_twitter.com_0.indexeddb.leveldb/000018.log 
+2020/10/30-11:20:58.543 22ac Level-0 table #23: started
+2020/10/30-11:20:58.558 22ac Level-0 table #23: 54153 bytes OK
+2020/10/30-11:20:58.576 22ac Delete type=0 #18
+2020/10/30-11:20:58.577 22ac Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/10/30-11:20:58.577 22ac Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x03\x01"\x00u\x00s\x00e\x00r\x00:\x001\x003\x008\x003\x009\x005\x006\x004\x008\x00:\x00r\x00w\x00e\x00b\x00.\x00t\x00y\x00p\x00e\x00a\x00h\x00e\x00a\x00d\x00U\x00s\x00e\x00r\x00s' @ 1145 : 1
+2020/10/30-11:20:58.577 22ac Compacting 1@1 + 1@2 files
+2020/10/30-11:20:58.591 22ac Generated table #24@1: 57 keys, 1909 bytes
+2020/10/30-11:20:58.591 22ac Compacted 1@1 + 1@2 files => 1909 bytes
+2020/10/30-11:20:58.608 22ac compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/10/30-11:20:58.608 22ac Delete type=2 #23
+2020/10/30-11:20:58.608 22ac Delete type=2 #20
+2020/10/30-11:20:58.609 22ac Manual compaction at level-1 from '\x00\x01\x01\x03\x01"\x00u\x00s\x00e\x00r\x00:\x001\x003\x008\x003\x009\x005\x006\x004\x008\x00:\x00r\x00w\x00e\x00b\x00.\x00t\x00y\x00p\x00e\x00a\x00h\x00e\x00a\x00d\x00U\x00s\x00e\x00r\x00s' @ 1145 : 1 .. (end); will stop at (end)

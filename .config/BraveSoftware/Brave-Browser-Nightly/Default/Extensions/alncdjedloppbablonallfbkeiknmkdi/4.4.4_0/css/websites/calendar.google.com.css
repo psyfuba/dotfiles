@@ -1,0 +1,7 @@
+img[src*='gstatic.com'][role] {
+    filter: invert(85%);
+}
+
+.NE_Hidden:after {
+    display: none;
+}

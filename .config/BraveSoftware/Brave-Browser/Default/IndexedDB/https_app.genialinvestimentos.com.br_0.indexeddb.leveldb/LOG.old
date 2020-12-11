@@ -1,0 +1,28 @@
+2020/10/22-10:20:23.077 250 Reusing MANIFEST /home/gugaa/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.genialinvestimentos.com.br_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/22-10:20:23.479 239 Level-0 table #5: started
+2020/10/22-10:20:23.482 239 Level-0 table #5: 2042 bytes OK
+2020/10/22-10:20:23.486 239 Delete type=0 #3
+2020/10/22-10:20:23.486 239 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/10/22-10:20:27.200 239 Level-0 table #7: started
+2020/10/22-10:20:27.203 239 Level-0 table #7: 3970 bytes OK
+2020/10/22-10:20:27.206 239 Delete type=0 #4
+2020/10/22-10:20:27.206 239 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/10/22-11:25:59.839 21da Level-0 table #9: started
+2020/10/22-11:25:59.866 21da Level-0 table #9: 420406 bytes OK
+2020/10/22-11:25:59.883 21da Delete type=0 #6
+2020/10/22-11:25:59.884 21da Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x03\x01\x02\x012\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x008\x008\x004\x007\x000\x004\x003\x007\x000\x007\x000\x00:\x00w\x00e\x00b\x00:\x007\x008\x005\x00a\x002\x00b\x004\x003\x00e\x00b\x00f\x008\x00a\x007\x002\x000\x008\x00e\x00a\x004\x009\x00f' @ 194 : 1
+2020/10/22-11:25:59.884 21da Compacting 1@0 + 1@1 files
+2020/10/22-11:25:59.899 21da Generated table #10@0: 136 keys, 14123 bytes
+2020/10/22-11:25:59.899 21da Compacted 1@0 + 1@1 files => 14123 bytes
+2020/10/22-11:25:59.915 21da compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/10/22-11:25:59.916 21da Delete type=2 #7
+2020/10/22-11:25:59.916 21da Delete type=2 #9
+2020/10/22-11:25:59.917 21da Manual compaction at level-0 from '\x00\x03\x01\x02\x012\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x008\x008\x004\x007\x000\x004\x003\x007\x000\x007\x000\x00:\x00w\x00e\x00b\x00:\x007\x008\x005\x00a\x002\x00b\x004\x003\x00e\x00b\x00f\x008\x00a\x007\x002\x000\x008\x00e\x00a\x004\x009\x00f' @ 194 : 1 .. (end); will stop at (end)
+2020/10/22-11:25:59.917 21da Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01\x02\x012\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x008\x008\x004\x007\x000\x004\x003\x007\x000\x007\x000\x00:\x00w\x00e\x00b\x00:\x007\x008\x005\x00a\x002\x00b\x004\x003\x00e\x00b\x00f\x008\x00a\x007\x002\x000\x008\x00e\x00a\x004\x009\x00f' @ 206 : 1
+2020/10/22-11:25:59.917 21da Compacting 1@1 + 1@2 files
+2020/10/22-11:25:59.930 21da Generated table #11@1: 44 keys, 12605 bytes
+2020/10/22-11:25:59.930 21da Compacted 1@1 + 1@2 files => 12605 bytes
+2020/10/22-11:25:59.957 21da compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/10/22-11:25:59.959 21da Delete type=2 #10
+2020/10/22-11:25:59.960 21da Delete type=2 #5
+2020/10/22-11:25:59.961 21da Manual compaction at level-1 from '\x00\x03\x01\x02\x012\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x008\x008\x004\x007\x000\x004\x003\x007\x000\x007\x000\x00:\x00w\x00e\x00b\x00:\x007\x008\x005\x00a\x002\x00b\x004\x003\x00e\x00b\x00f\x008\x00a\x007\x002\x000\x008\x00e\x00a\x004\x009\x00f' @ 206 : 1 .. (end); will stop at (end)

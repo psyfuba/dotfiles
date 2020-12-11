@@ -1,0 +1,29 @@
+{
+   "background": {
+      "persistent": true,
+      "scripts": [ "export.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "icon19.png",
+         "38": "icon38.png"
+      },
+      "default_title": "Bookmarks Import & Export"
+   },
+   "description": "Opera Bookmarks Import & Export",
+   "developer": {
+      "name": "escape75"
+   },
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "48": "icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAk+YJpI2MpdpWtANlFepIQN4b+BFHVriEQG7I4J1QkXs8JhhICcZP9kjm6TmZX6uT/1L6Hxa7rYjsymhVbKWewHpETrbVjnpJKZfOGRN6WDyQr3c3IEG+7J4h7ihbMpWj1v/98hTc2Llm9fUcZ+ivVFPDKhj++N+wryfZUDE0WqxFNE3CVYMGaQP21zbu5V1VemjRmKMjte7V6qVUFaVwy3dQ6skwE1gOhDqTYKygesoALW6GzB4JtJfr5rUC808Of0/SbCKCh5Hg3iT+NB7ax4BDljOZ5lmjMiG19k+PmfXkvcEXTM4NoHSHDyrZth4jHUN4lo//UvTJwMZSKB3CqQIDAQAB",
+   "manifest_version": 2,
+   "name": "Bookmarks Import & Export",
+   "options_page": "popup.html",
+   "permissions": [ "bookmarks", "downloads" ],
+   "update_url": "https://extension-updates.opera.com/api/omaha/update/",
+   "version": "4.6"
+}

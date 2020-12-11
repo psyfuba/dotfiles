@@ -1,0 +1,17 @@
+2020/10/30-22:53:13.495 623 Reusing MANIFEST /home/gugaa/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_www.serasa.com.br_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/30-22:53:13.599 67f Level-0 table #5: started
+2020/10/30-22:53:13.602 67f Level-0 table #5: 527 bytes OK
+2020/10/30-22:53:13.608 67f Delete type=0 #3
+2020/10/30-22:53:13.608 623 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/10/30-22:53:15.598 609 Level-0 table #7: started
+2020/10/30-22:53:15.604 609 Level-0 table #7: 218 bytes OK
+2020/10/30-22:53:15.607 609 Delete type=0 #4
+2020/10/30-22:53:15.608 609 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/10/30-22:53:15.608 609 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 21 : 0
+2020/10/30-22:53:15.608 609 Compacting 1@1 + 1@2 files
+2020/10/30-22:53:15.612 609 Generated table #8@1: 4 keys, 221 bytes
+2020/10/30-22:53:15.612 609 Compacted 1@1 + 1@2 files => 221 bytes
+2020/10/30-22:53:15.616 609 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/10/30-22:53:15.616 609 Delete type=2 #7
+2020/10/30-22:53:15.616 609 Delete type=2 #5
+2020/10/30-22:53:15.617 609 Manual compaction at level-1 from '\x00\x00\x00\x002\x02\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 21 : 0 .. (end); will stop at (end)

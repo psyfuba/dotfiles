@@ -1,0 +1,18 @@
+2020/11/06-15:03:24.542 6c9c Reusing MANIFEST /home/gugaa/.config/opera/Local Storage/leveldb/MANIFEST-000001
+2020/11/06-15:03:24.542 6c9c Recovering log #38
+2020/11/06-15:03:24.543 6c9c Reusing old log /home/gugaa/.config/opera/Local Storage/leveldb/000038.log 
+2020/11/06-15:03:34.660 6c9d Level-0 table #42: started
+2020/11/06-15:03:34.663 6c9d Level-0 table #42: 10944 bytes OK
+2020/11/06-15:03:34.667 6c9d Delete type=0 #38
+2020/11/06-15:03:34.667 6c9c Compacting 4@0 + 1@1 files
+2020/11/06-15:03:34.673 6c9c Generated table #43@0: 284 keys, 121032 bytes
+2020/11/06-15:03:34.673 6c9c Compacted 4@0 + 1@1 files => 121032 bytes
+2020/11/06-15:03:34.676 6c9c compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/11/06-15:03:34.676 6c9c Delete type=2 #42
+2020/11/06-15:03:34.676 6c9c Delete type=2 #30
+2020/11/06-15:03:34.676 6c9c Delete type=2 #33
+2020/11/06-15:03:34.676 6c9c Delete type=2 #36
+2020/11/06-15:03:34.676 6c9c Delete type=2 #39
+2020/11/06-15:03:38.343 6c9c Level-0 table #45: started
+2020/11/06-15:03:38.351 6c9c Level-0 table #45: 61128 bytes OK
+2020/11/06-15:03:38.355 6c9c Delete type=0 #41

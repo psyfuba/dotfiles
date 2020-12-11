@@ -1,0 +1,12 @@
+2020/11/30-14:29:19.268 27e Reusing MANIFEST /home/gugaa/.config/BraveSoftware/Brave-Browser-Nightly/Default/Local Storage/leveldb/MANIFEST-000001
+2020/11/30-14:29:19.271 27e Recovering log #254
+2020/11/30-14:29:19.276 27e Reusing old log /home/gugaa/.config/BraveSoftware/Brave-Browser-Nightly/Default/Local Storage/leveldb/000254.log 
+2020/11/30-14:31:05.906 78a Level-0 table #259: started
+2020/11/30-14:31:05.911 78a Level-0 table #259: 113555 bytes OK
+2020/11/30-14:31:05.916 78a Delete type=0 #254
+2020/11/30-14:42:23.648 c20 Level-0 table #261: started
+2020/11/30-14:42:23.651 c20 Level-0 table #261: 20624 bytes OK
+2020/11/30-14:42:23.657 c20 Delete type=0 #258
+2020/11/30-15:21:44.283 1ea5 Level-0 table #263: started
+2020/11/30-15:21:44.295 1ea5 Level-0 table #263: 236287 bytes OK
+2020/11/30-15:21:44.300 1ea5 Delete type=0 #260

@@ -1,0 +1,15 @@
+2020/10/27-00:10:32.017 e29 Reusing MANIFEST /home/gugaa/.config/opera/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/27-00:10:32.017 e29 Recovering log #7
+2020/10/27-00:10:32.017 e29 Reusing old log /home/gugaa/.config/opera/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000007.log 
+2020/10/27-00:11:04.881 e29 Level-0 table #12: started
+2020/10/27-00:11:04.885 e29 Level-0 table #12: 988 bytes OK
+2020/10/27-00:11:04.889 e29 Delete type=0 #7
+2020/10/27-00:11:04.889 e29 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/10/27-00:11:04.889 e29 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x08\x01\x02\x01`\x00S\x00t\x00o\x00r\x00e\x00d\x00C\x00a\x00c\x00h\x00e\x00H\x00i\x00t\x00C\x00o\x00u\x00n\x00t\x00e\x00r\x00s\x00:\x00:\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00m\x00a\x00i\x00l\x00.\x00g\x00o\x00o\x00g\x00l\x00e\x00.\x00c\x00o\x00m\x00/\x00m\x00a\x00i\x00l\x00/\x00u\x00/\x000\x00/\x00#\x00i\x00n\x00b\x00o\x00x\x00/\x00F\x00M\x00f\x00c\x00g\x00x\x00w\x00K\x00j\x00B\x00P\x00t\x00l\x00k\x00h\x00Z\x00g\x00J\x00T\x00C\x00N\x00k\x00S\x00v\x00H\x00w\x00h\x00L\x00S\x00d\x00W\x00P' @ 2233 : 1
+2020/10/27-00:11:04.889 e29 Compacting 1@1 + 1@2 files
+2020/10/27-00:11:04.892 e29 Generated table #13@1: 90 keys, 53330 bytes
+2020/10/27-00:11:04.892 e29 Compacted 1@1 + 1@2 files => 53330 bytes
+2020/10/27-00:11:04.895 e29 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/10/27-00:11:04.895 e29 Delete type=2 #12
+2020/10/27-00:11:04.895 e29 Delete type=2 #9
+2020/10/27-00:11:04.895 e29 Manual compaction at level-1 from '\x00\x08\x01\x02\x01`\x00S\x00t\x00o\x00r\x00e\x00d\x00C\x00a\x00c\x00h\x00e\x00H\x00i\x00t\x00C\x00o\x00u\x00n\x00t\x00e\x00r\x00s\x00:\x00:\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00m\x00a\x00i\x00l\x00.\x00g\x00o\x00o\x00g\x00l\x00e\x00.\x00c\x00o\x00m\x00/\x00m\x00a\x00i\x00l\x00/\x00u\x00/\x000\x00/\x00#\x00i\x00n\x00b\x00o\x00x\x00/\x00F\x00M\x00f\x00c\x00g\x00x\x00w\x00K\x00j\x00B\x00P\x00t\x00l\x00k\x00h\x00Z\x00g\x00J\x00T\x00C\x00N\x00k\x00S\x00v\x00H\x00w\x00h\x00L\x00S\x00d\x00W\x00P' @ 2233 : 1 .. (end); will stop at (end)

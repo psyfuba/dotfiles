@@ -1,0 +1,15 @@
+2020/10/24-12:28:44.041 54d Reusing MANIFEST /home/gugaa/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/24-12:28:44.042 54d Recovering log #11
+2020/10/24-12:28:44.045 54d Reusing old log /home/gugaa/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/000011.log 
+2020/10/24-12:29:27.193 530 Level-0 table #16: started
+2020/10/24-12:29:27.201 530 Level-0 table #16: 49941 bytes OK
+2020/10/24-12:29:27.206 530 Delete type=0 #11
+2020/10/24-12:29:27.207 530 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/10/24-12:29:27.207 530 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x1b\x00u\x00s\x00e\x00r\x00:\x001\x003\x008\x003\x009\x005\x006\x004\x008\x00:\x00r\x00w\x00e\x00b\x00.\x00s\x00e\x00e\x00n\x00i\x00d\x00s' @ 2748 : 1
+2020/10/24-12:29:27.207 530 Compacting 1@1 + 1@2 files
+2020/10/24-12:29:27.212 530 Generated table #17@1: 50 keys, 1658 bytes
+2020/10/24-12:29:27.212 530 Compacted 1@1 + 1@2 files => 1658 bytes
+2020/10/24-12:29:27.216 530 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/10/24-12:29:27.217 530 Delete type=2 #16
+2020/10/24-12:29:27.217 530 Delete type=2 #13
+2020/10/24-12:29:27.217 530 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x1b\x00u\x00s\x00e\x00r\x00:\x001\x003\x008\x003\x009\x005\x006\x004\x008\x00:\x00r\x00w\x00e\x00b\x00.\x00s\x00e\x00e\x00n\x00i\x00d\x00s' @ 2748 : 1 .. (end); will stop at (end)

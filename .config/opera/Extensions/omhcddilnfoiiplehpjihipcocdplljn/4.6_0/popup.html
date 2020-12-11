@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+	<link rel="icon" type="image/png" href="icon16.png">
+	<title>Bookmarks</title>
+	<style type="text/css">
+		* { font-family:Verdana; -webkit-appearance:none; }
+		body { font-size:14px; color:#000; background:#222; white-space:nowrap; text-align:center; cursor:default; }
+		.info { display:block; font-size:16px; color:#620; margin:10px; border:0px; text-shadow:1px 1px 0px #FCB; }
+		.down { font-size:22px; font-variant:small-caps; padding:2px 4px; border:1px; border-radius:4px; background:#F6F6F6; border-style:outset; border-color:#BBB; outline:0px; }
+		.down:hover { box-shadow:0px 0px 6px #AAA; }
+	</style>
+</head>
+
+<body>
+	<p style="margin:1.5em;"></p>
+	<div style="background:#EEE; width:600px; margin:0px auto; border:4px solid; border-color:#AAA; border-radius:4px; padding:15px;">
+		<p style="margin:0.5em;"></p>
+		<img style="float:left;" width="48" height="48" src="icon48.png" alt="">
+		<span style="font-size:22px; font-weight:bold; display:inline;">Bookmarks <span style="color:#D42;">Import</span> & <span style="color:#D42;">Export</span></span>
+		<p style="margin:0.2em;"></p>
+		<span style="color:#888; display:inline;">&nbsp; &nbsp; by Martin Sermak - Copyright &copy; 2016</span>
+		<p style="margin:1.5em;"></p>
+		<div>Please note that the Export and Import process will ignore nested folders,</div>
+		<div>so any nested folders will simply be flattened and saved as regular folders.</div>
+		<p style="margin:1.5em;"></p>
+		<div>Bookmarks won't be lost,- when done, you will see number of items imported.</div>
+		<p style="margin:1.5em;"></p>
+		<div><b>IMPORT</b> -- Pick a File using "Choose File" then click on "Import Bookmarks"</div>
+		<div><b>EXPORT</b> -- Click "Export Bookmarks" and a file will be saved to Downloads</div>
+		<p style="margin:2.0em;"></p>
+		<div style="display:block; background:#FFF; margin:10px 80px; border:2px solid #D42; border-radius:5px;">
+			<div style="margin:1.5em;"></div>
+			<input type="file" id="fileInput" style="font-size:14px;" />
+			<div style="margin:1.5em;"></div>
+			<input id="importBook" class="down" type="button" value=" import &nbsp;&lbarr; " />
+			&nbsp;OR&nbsp;
+			<input id="exportBook" class="down" type="button" value=" export &nbsp;&rbarr; " />
+			<div style="margin:1.5em;"></div>
+		</div>
+		<p style="margin:1.5em;"></p>
+		<div id="infoPanel" class="info">&nbsp;</div>
+	</div>
+	<script type="text/javascript" src="popup.js"></script>
+</body>
+
+</html>
